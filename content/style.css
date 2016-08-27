@@ -93,4 +93,5 @@ input[type="submit"]:active {
     position:relative;
     top:1px;
     left:20px;
+    right:10px;
 }
